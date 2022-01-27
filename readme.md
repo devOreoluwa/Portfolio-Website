@@ -1,9 +1,9 @@
 # My Portfolio Website #
 
-## Description##
+## Description
 This is my portfolio website. It consist vital information about me.
 
-## Design ##
+## Design 
 !(Designs)[]
 
 ## Tech Used
