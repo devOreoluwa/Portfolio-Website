@@ -1,0 +1,35 @@
+body{
+    background-color: #E6F4F1;
+}
+.nav-link:hover{
+    background-color: #011E26;
+    border: #011E26;
+    color: #E6F4F1;
+    transition: 1s;
+}
+.navbar{
+    position: absolute;
+    background: transparent !important;
+    width: 100%;
+    z-index: 10;
+}
+.nav-link{
+    text-decoration: none;
+    color: #011E26;
+    
+}
+
+
+.active{
+
+}
+.herosection{
+    position: absolute;
+    background: transparent;
+    z-index: 1;
+  
+
+}
+.herotext{
+
+}
