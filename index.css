@@ -27,9 +27,25 @@ body{
     position: absolute;
     background: transparent;
     z-index: 1;
-  
+    margin-left: 120px;
+    margin-top: -50px;
 
 }
+h1{
+    font-size: 3em;
+}
+
 .herotext{
 
+}
+.myicon{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.my_icon{
+    list-style-type: none;
+}
+.downloadcv{
+    margin: 60px;
 }
